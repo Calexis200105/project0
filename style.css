@@ -1,0 +1,43 @@
+      h2{
+          color:red;
+          text-align: center;
+          font-family:cursive ,sans-serif;
+
+      }
+
+
+
+      p {
+        font-family:cursive ,sans-serif;
+        font-size: 11 px
+      }
+        div {
+          background-color:red;
+          width:auto;
+          align-content: space-between,center;
+
+
+
+
+        }
+
+
+      }
+      h3{
+
+        style="color:Gray;
+       text-align: right;
+
+
+
+    }
+    table tr,th {
+          border: 2px solid Gray;
+          Border-collapse:collapse
+    }
+
+    table.center {
+          margin-left: auto;
+          margin-right: auto;
+
+    }
